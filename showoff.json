@@ -1,0 +1,20 @@
+{
+  "name": "Implementing Continuous Delivery",
+  "description": "",
+  "author": "Christian Trabold",
+  "presentation_date": "Mar 6 2014",
+  "conference_name": "Devops Meetup Singapore",
+  // "templates" : {
+  //   "default" : "default.tpl"
+  // },
+  "pause_msg": "Paused",
+  "sections": [
+    {"section":"intro"},
+    {"section":"definition"},
+    {"section":"case_studies"},
+    {"section":"practices"},
+    {"section":"exercise"},
+    {"section":"transition"},
+    {"section":"thank_you"}
+  ]
+}
